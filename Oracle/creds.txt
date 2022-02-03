@@ -1,0 +1,173 @@
+-- Database: RCPROD1
+
+	analyst_owner			pass
+
+	apn_owner			pass
+
+	ast_owner			burger1199   (was: pass)
+
+	carlin_b			gorilla
+
+	care_time_owner			pass
+
+	choice_owner			pass
+
+	choice_owner_retention		phoolandevi
+
+	choice_owner_retention_dev	phoolandevi
+
+	choice_owner_retention_qa	phoolandevi
+
+	choice_xchange			cx_pass
+
+	choice2_owner			pass1
+
+	consultant_guest		outcomes20
+
+	cms_owner			burger1199   (was: pass)
+
+	ddrs_owner			pass2
+
+	elizabeth_m			gorilla
+
+	empire_owner			dynasty3
+
+	EPS_OWNER			pass
+
+	finance_owner			burger1199
+
+	gbl_owner			pass
+
+	hospice_owner			pass
+
+	it_owner			chimp
+
+	langeloth_owner			pass
+
+	magnet_owner			pass
+
+	MED_OWNER			pass
+
+	model_owner			pass
+
+	ms_owner			burger1199   (was: pass)
+
+	nfp_owner			pass
+
+	nfp2_owner			pass1
+
+	oa_owner			pass
+
+	oasis_owner			burger1199   (was: pass)
+
+	ped_owner			pass
+
+	percival_bl			burger1199
+
+	pps_owner			pass
+
+	psat_owner			dynasty3   (was: burger1199, pass, pass2)
+
+	qa_owner			pass
+
+	qms_owner			burger1199   (was: pass)
+
+	rc_owner			pass
+
+	rehab_owner			pass
+
+	res_owner			burger1199   (was: pass)
+
+	research_owner			pass
+
+	richard				pass
+
+	rocco_n				pass
+
+	rprt_owner			burger1199   (was: pass)
+
+	rsc_owner			pass
+
+	rsc_xchange			pass
+
+	sat_owner			pass
+
+	search_owner			burger1199   (was: pass)
+
+	smy_owner			burger1199   (was: pass)
+
+	system				rcprod1_mgr
+
+	telehealth_owner		pass
+
+	web_user			gorilla
+
+
+
+-- Database: RCDEV1
+
+	percival_b			burger1199 (was: Outcomesdba)
+
+
+
+-- Database: NEXUS
+
+	perci_b				Carenage1980
+
+
+
+-- Database: NEXUS2
+	ROC_RO				rocronx2
+picbi          xQVd5g
+
+                     mstrstg 			                     mstrstg4nx2
+                   
+                    POP_HEALTH_BI                                                     pop_health_bi123
+
+                     choicebi				ch0iceb12nx2    
+             
+                    hospicebi                                                                h0spicebi40utc0mep
+
+-- Database: ODSDEV
+	ROC_RO				rocronx2
+                     mstrstg				mstrst9_0dsdv
+                     POP_HEALTH_BI                                                     pop_health_bi123
+                     choicebi				ch0icebi_odsdv9
+                    hospicebi                                                                   C03l3nt3r4t4 
+
+-- Database: HRPROD1
+	Outcomes			Outcomes2015
+
+
+
+	NOTE:	Most end-user accounts use the password "gorilla".
+
+
+Linux host: rsrchwbpd
+
+	consltnt			visitor-outcomes
+
+Linux host: rsrchlxm0101
+	percy_b				carenage1980
+	root				Rn-dx:rXLn
+
+Linux host: dev.outcomes
+	pblenman			carenage1980
+
+Linux host: rsrchwbpd
+	pblenman			carenage1980
+
+Linux host: qa.outcomes
+	pblenman			carenage1980
+
+
+AIX host: prc1db1
+
+	consltnt
+	pblenm				meowmeow
+	rc_owner			rc_owner
+
+
+
+AIX host: drc1db1 (DEV)
+	rc_owner			rc_owner
